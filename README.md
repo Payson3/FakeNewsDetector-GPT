@@ -44,3 +44,32 @@ Each file includes columns like:
 ```bash
 git clone https://github.com/YOUR_USERNAME/fake-news-detector.git
 cd fake-news-detector
+
+📊 Results
+The fine-tuned RoBERTa model achieved strong classification accuracy (e.g., >90% on validation set), demonstrating its ability to generalize across political, health, and entertainment news.
+
+📌 Learnings
+Hands-on experience with data preprocessing and tokenization
+
+Fine-tuning transformer models for downstream tasks
+
+Dealing with class imbalance and input truncation
+
+Evaluating NLP model performance in real-world scenarios
+
+📎 Future Enhancements
+Add explainability with LIME/SHAP for interpretability
+
+Expand to multi-class classification (clickbait, satire, etc.)
+
+Deploy as a Flask or FastAPI app
+
+Integrate with social media APIs for real-time classification
+
+🧾 License
+This project is licensed under the MIT License.
+
+🙋‍♂️ Author
+Created by [Your Name]
+AI Product Manager | NLP Enthusiast
+Connect on LinkedIn
